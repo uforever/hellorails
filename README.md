@@ -4,9 +4,7 @@
 
 ## "hello, world!"
 
-This is the first application for me.
-[*Baidu baidu baidu*](https://www.baidu.com/)
-by [Y∞u](https://coding.net/u/uforever). Hello rails!
+This is the first application for [me](https://coding.net/u/uforever). Hello rails!
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
